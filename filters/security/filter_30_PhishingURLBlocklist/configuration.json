@@ -1,6 +1,6 @@
 {
   "name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
-  "description": "Blocklist of phishing websites, based on PhishTank and OpenPhish lists",
+  "description": "Blocklist of phishing websites, based on OpenPhish and mitchellkrogza/Phishing.Database",
   "homepage": "https://gitlab.com/malware-filter/phishing-filter",
   "sources": [
     {
